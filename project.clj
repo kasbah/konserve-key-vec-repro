@@ -18,6 +18,7 @@
                   :scope "provided"]
                  [metosin/reitit "0.5.18"]
                  [pez/clerk "1.0.0"]
+                 [io.replikativ/konserve "0.7.317"]
                  [venantius/accountant "0.2.5"
                   :exclusions [org.clojure/tools.reader]]]
 
